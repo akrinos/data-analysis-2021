@@ -1,0 +1,8 @@
+pandas
+matplotlib
+plotnine
+netCDF4
+numpy
+biopython
+datetime
+scipy
