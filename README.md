@@ -15,3 +15,11 @@ git clone https://github.com/akrinos/data-analysis-2021
 ```
 
 from the command line, using the terminal emulator of your choice.
+
+To get all the `pip`-based requirements installed in one go, you can use
+
+```
+pip install -r requirements.txt
+```
+
+Inside of the project folder.
